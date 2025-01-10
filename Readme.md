@@ -6,9 +6,9 @@
     1. Type: POST <br />
     2. Inside body write the below Json formatted data and send <br />
     { <br />
-        "name": "Kumar", <br />
-        "email": "kumar@gmail.com", <br />
-        "age": 25 <br />
+    \t "name": "Kumar", <br />
+    \t "email": "kumar@gmail.com", <br />
+    \t "age": 25 <br />
     } <br />
     3. 2nd Type: GET, "http://localhost:8082/api/students/id" where id = 1,2,3... till no. of students in the database. <br />
     4. 3rd Type GET, "http://localhost:8082/api/students" it provides details of all the students in the database. <br /> <br />
