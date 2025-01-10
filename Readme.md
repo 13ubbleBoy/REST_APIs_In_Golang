@@ -4,7 +4,7 @@
 
 --> Use of Postman: <br />
     1. Type: POST <br />
-    2. Inside body write <br />
+    2. Inside body write the below Json formatted data and send <br />
     { <br />
         "name": "Kumar", <br />
         "email": "kumar@gmail.com", <br />
