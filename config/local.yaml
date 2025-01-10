@@ -1,0 +1,4 @@
+env: "dev"
+storage_path: "storage/storage.db" # SQLite k ander jo file banti hai uska ".db" extension hota h
+http_server:
+  address: "localhost:8082" # address jaha pe humara server run hoga
